@@ -1,4 +1,4 @@
-FROM gcr.io/cloud-builders/gcloud
+FROM gcr.io/cloud-builders/kubectl
 
 ENV VERSION v2.8.2
 

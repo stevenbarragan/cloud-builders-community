@@ -1,4 +1,4 @@
-FROM gcr.io/versus-environments/helm
+FROM gcr.io/versus-production/helm
 
 RUN mkdir -p /builder/bin && \
   apt-get update && \
